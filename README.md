@@ -1,5 +1,5 @@
 # Amazon-clone
-This project is a clone of the popular e-commerce platform Amazon.com, created using HTML and CSS. It aims to replicate the user interface of the Amazon website.
+This project is a clone of the popular e-commerce platform **Amazon.com**, created using HTML and CSS. It aims to replicate the user interface of the Amazon website.
 
 
 # Technologies Used
