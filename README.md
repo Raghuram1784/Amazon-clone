@@ -2,7 +2,7 @@
 This project is a clone of the popular e-commerce platform **Amazon.com**, created using HTML and CSS. It aims to replicate the user interface of the **Amazon website**.
 
 
-# Technologies Used
+# Technologies Used:
 <ul>
   <li>HTML: Used for structuring the web pages.</li>
   <li>CSS: Used for styling and layout of the website.</li>
